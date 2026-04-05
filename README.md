@@ -2,6 +2,11 @@
 
 A **Splitwise-like REST API** built with FastAPI that helps groups split expenses and calculates the **minimum number of transactions** to settle all debts.
 
+<img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/1a5a0602-f176-4c8c-9f29-f1c3318f1f3d" />
+<img width="1916" height="928" alt="image" src="https://github.com/user-attachments/assets/46d85b51-a26f-49ea-a7d8-07b2203a4c30" />
+
+
+
 ---
 
 ## 🚀 Features
